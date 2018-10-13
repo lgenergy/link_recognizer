@@ -5,12 +5,11 @@
 
 
 
-### Ötlet:
----
+## Ötlet:
 -
 
 
-### Projekt fázisai (előzetesen) 
+## Projekt fázisai (előzetesen) 
 ---
 
 - Témához megfelelő ismeretek elsajátítása, felmerülő problémák előzetes felmérése (**plan**) 
@@ -20,7 +19,7 @@
 - Link felismerése (**recognize**)
 - Eremény egyéb felhasználása, végterméke a projektnek, algoritmus kiértékelése (**result**)
 
-
+---
 > Kiss Botond
 
 > Lakos Gergő
