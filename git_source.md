@@ -1,4 +1,4 @@
-## Git repository 
+## Git repository source
 
 ```bash
 echo "# link_recognizer" >> README.md
