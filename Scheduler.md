@@ -10,7 +10,6 @@
 
 
 ## Projekt fázisai (előzetesen) 
----
 
 - Témához megfelelő ismeretek elsajátítása, felmerülő problémák előzetes felmérése (**plan**) 
 - Adat gyűjtés (**data collection**)
