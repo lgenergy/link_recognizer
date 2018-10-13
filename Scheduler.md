@@ -11,7 +11,7 @@
 
 ## Projekt fázisai (előzetesen) 
 
-- Témához megfelelő ismeretek elsajátítása, felmerülő problémák előzetes felmérése (**plan**) 
+- Témához megfelelő ismeretek elsajátítása, felmerülő problémák előzetes felmérése (**planning**) 
 - Adat gyűjtés (**data collection**)
 - A link cellájának felismerése képről (**target**)
 - A cella elforgatása, hogy egy téglalap alapú alakzatot kapjunk (**transform**)
