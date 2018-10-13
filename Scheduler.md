@@ -1,12 +1,9 @@
 # Link recognizer
 
-### Bevezetés az adattudományba - Önálló kutatási feladat
+### Bevezetés az adattudományba - Önálló kutatási feladat *2018H2*
 
-> Kiss Botond
 
-> Lakos Gergő
 
-*2018H2*
 
 ### Ötlet:
 ---
@@ -22,3 +19,8 @@
 - A cella elforgatása, hogy egy téglalap alapú alakzatot kapjunk (**transform**)
 - Link felismerése (**recognize**)
 - Eremény egyéb felhasználása, végterméke a projektnek, algoritmus kiértékelése (**result**)
+
+
+> Kiss Botond
+
+> Lakos Gergő
