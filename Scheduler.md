@@ -1,7 +1,12 @@
 # Link recognizer
 
-## Bevezetés az adattudományba - Önálló kutatási feladat
----
+### Bevezetés az adattudományba - Önálló kutatási feladat
+
+> Kiss Botond
+
+> Lakos Gergő
+
+>                 *2018H2*
 
 ### Ötlet:
 ---
