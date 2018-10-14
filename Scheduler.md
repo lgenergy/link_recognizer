@@ -20,7 +20,7 @@ Megoldás, algoritmus célja:
 - Önálló kutatási feladat keretében egy ilyen telefonos applikáció alap algoritmusát szeretnénk megírni,
   mely inputként egy képet kap, felismeri a képen az url-sáv pozicióját. Majd ezt a sávot (tartományt)
   elforgatja, átalakítja, úgy hogy a link betűi, minél inkább szabályosak legyenek és így egy betűfelismerő
-  ORC algoritmus segítségével felismeri a linket, és outputként ezt adja vissza. 
+  OCR algoritmus segítségével felismeri a linket, és outputként ezt adja vissza. 
 
 
 ## Projekt fázisai (előzetesen) 
