@@ -7,7 +7,7 @@
 
 ## Ötlet:
 
-A probléma forrása:
+A probléma eredete:
 
 - Ha valaki olyan gépen böngészik, amin nem akar bejelentkezni semmilyen személyes profiljába,
   de talál egy linket amit szeretne elmenteni, vagy megosztani bármilyen sociális felületen azonnal.
