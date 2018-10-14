@@ -1,1 +1,1 @@
-# link_recognizer for github
+# link_recognizer - info for github
