@@ -1,0 +1,4 @@
+pip install pytesseract
+pip install pillow
+pip install opencv-python
+https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v4.0.0-rc3.20181014.exe
